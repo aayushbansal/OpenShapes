@@ -2,7 +2,7 @@
 
 This repository provides the code for our work on [in-the-wild image synthesis and manipulation](http://www.cs.cmu.edu/~aayushb/OpenShapes/).
 
-<img src="https://www.cs.cmu.edu/~aayushb/OpenShapes/teaser.png" width="800px"/>
+<img src="http://www.cs.cmu.edu/~aayushb/OpenShapes/teaser.png" width="800px"/>
 
 ```make
 @inproceedings{OpenShapes,
@@ -16,5 +16,7 @@ This repository provides the code for our work on [in-the-wild image synthesis a
 ```
 
 
-## Note: We are in process of releasing a web-application that allows anyone to create images on their everyday computing devices. We will be releasing the source code (both python and matlab) for this work with the release of web-app.
+### Note: 
+
+We are in process of releasing a web-application that allows anyone to create images on their everyday computing devices. We will be releasing the source code (both python and matlab) for this work with the release of web-app.
 
