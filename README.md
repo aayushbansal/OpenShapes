@@ -1,4 +1,4 @@
-# Shapes and Context
+# OpenShapes
 
 This repository provides the code for our work on [in-the-wild image synthesis and manipulation](http://www.cs.cmu.edu/~aayushb/OpenShapes/).
 
