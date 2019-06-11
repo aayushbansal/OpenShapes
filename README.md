@@ -1,8 +1,8 @@
-# OpenShapes
+# Shapes and Context
 
 This repository provides the code for our work on [in-the-wild image synthesis and manipulation](http://www.cs.cmu.edu/~aayushb/OpenShapes/).
 
-<img src="http://www.cs.cmu.edu/~aayushb/OpenShapes/teaser.png" width="800px"/>
+<img src="./teaser.png" width="800px"/>
 
 ```make
 @inproceedings{OpenShapes,
@@ -14,7 +14,6 @@ This repository provides the code for our work on [in-the-wild image synthesis a
   year      = {2019},
 }
 ```
-
 
 ### Note: 
 
