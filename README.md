@@ -1,6 +1,6 @@
 # OpenShapes
 
-This repository provides the code (both MATLAB and Python version) for our work on [in-the-wild image synthesis and manipulation](http://www.cs.cmu.edu/~aayushb/OpenShapes/). The beta version of web-app is available [here](openshapes.perception.cs.cmu.edu:5000). Please consider citing our work if you find it useful.
+This repository provides the code (both MATLAB and Python version) for our work on [in-the-wild image synthesis and manipulation](http://www.cs.cmu.edu/~aayushb/OpenShapes/). The beta version of web-app is available [here](http://openshapes.perception.cs.cmu.edu:5000). Please consider citing our work if you find it useful.
 
 <img src="./teaser.png" width="800px"/>
 

@@ -1,6 +1,6 @@
 # OpenShapes - MATLAB code
 
-We provide MATLAB code for our work on [in-the-wild image synthesis and manipulation](http://www.cs.cmu.edu/~aayushb/OpenShapes/). The beta version of web-app is available [here](openshapes.perception.cs.cmu.edu:5000).
+We provide MATLAB code for our work on [in-the-wild image synthesis and manipulation](http://www.cs.cmu.edu/~aayushb/OpenShapes/). The beta version of web-app is available [here](http://openshapes.perception.cs.cmu.edu:5000).
 
 ## Demo Video
 
