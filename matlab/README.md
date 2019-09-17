@@ -2,6 +2,12 @@
 
 We provide MATLAB code for our work on [in-the-wild image synthesis and manipulation](http://www.cs.cmu.edu/~aayushb/OpenShapes/). The beta version of web-app is available [here](openshapes.perception.cs.cmu.edu:5000).
 
+## Demo Video
+
+[![OpenShapes web-app (beta version)!](https://img.youtube.com/vi/Yi8Z5AeBRxI/0.jpg)](https://youtu.be/Yi8Z5AeBRxI)
+
+Click above to see video!
+
 ## Usage
 
 Our work heavily builds on [COCO](http://cocodataset.org/#home) and [COCO Panoptic Segmentation dataset](https://github.com/cocodataset/panopticapi). One  would require the images and labels (semantic and panoptic) to run this code. For the sake of reproduction, please use the following to setup dataset.

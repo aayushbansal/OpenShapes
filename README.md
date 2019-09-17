@@ -14,6 +14,12 @@ This repository provides the code (both MATLAB and Python version) for our work 
   year      = {2019},
 }
 ```
+## Demo Video
+
+[![OpenShapes web-app (beta version)!](https://img.youtube.com/vi/Yi8Z5AeBRxI/0.jpg)](https://youtu.be/Yi8Z5AeBRxI)
+
+Click above to see video!
+
 
 ## Compute
 
